@@ -1,0 +1,13 @@
+
+/* BEGIN EXTERNAL SOURCE */
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #ffffff;
+        }
+        .center-gridview {
+            margin: 0 auto; /* 將左右邊距設為auto，使其在水平方向上居中 */
+        }
+    
+/* END EXTERNAL SOURCE */
